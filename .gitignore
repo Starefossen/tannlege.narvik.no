@@ -1,2 +1,8 @@
+.env
+
 assets/medical/
 !assets/medical/svg
+
+_site
+.sass-cache
+.jekyll-metadata

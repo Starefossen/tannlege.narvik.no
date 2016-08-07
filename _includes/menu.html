@@ -1,0 +1,27 @@
+
+{% if include.toc %}
+  <a class="toc item"><i class="sidebar icon"></i></a>
+{% endif %}
+
+{% if include.vertical %}
+  <a class="item" href="#">Hjem</a>
+{% else %}
+  <a class="item" href="#"><i class="heartbeat icon"></i></a>
+{% endif %}
+
+<a class="item" href="#behandlinger">Behandlinger</a>
+<a class="item" href="#tannleger">Om oss</a>
+<a class="item" href="#kontakt">Kontakt</a>
+
+{% if include.right %}
+  <div class="right menu">
+    <span class="item">
+      <i class="calendar icon"></i>
+      Hverdager 08:00 til 15:30
+    </span>
+    <span class="item">
+      <i class="phone icon"></i>
+      Betjent telefon: 76 94 20 24
+    </span>
+  </div>
+{% endif %}
