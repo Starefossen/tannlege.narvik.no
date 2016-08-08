@@ -1,0 +1,26 @@
+{% if include.footer %}
+  {% assign type = "inverted link" %}
+  {% assign color = "" %}
+{% else %}
+  {% assign type = "huge relaxed" %}
+  {% assign color = "large blue" %}
+{% endif %}
+
+<div class="ui {{ type }} list">
+  <div class="item">
+    <i class="{{ color }} building outline icon"></i>
+   <div class="middle aligned content">{{ site.data.contact.address.short }}</div>
+  </div>
+  <div class="item">
+    <i class="{{ color }} call icon"></i>
+    <div class="middle aligned content">{{ site.data.contact.phone }}</div>
+  </div>
+  <div class="item">
+    <i class="{{ color }} mail outline icon"></i>
+    <div class="middle aligned content">{{ site.data.contact.email }}</div>
+  </div>
+  <div class="item">
+    <i class="{{ color }} home icon"></i>
+    <div class="middle aligned content">{{ site.data.contact.url }}</div>
+  </div>
+</div>

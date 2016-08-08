@@ -3,21 +3,8 @@
     <div class="ui stackable inverted divided equal height stackable grid">
       <div class="four wide column">
         <h4 class="ui inverted header">Kontaktinformasjon</h4>
-        <div class="ui inverted link list">
-          <div class="item">
-            <i class="building outline icon"></i>
-            {{ site.data.contact.address.short }}
-          </div>
-          <div class="item">
-            <i class="mobile icon"></i> {{ site.data.contact.phone }}
-          </div>
-          <div class="item">
-            <i class="mail outline icon"></i> {{ site.data.contact.email }}
-          </div>
-          <div class="item">
-            <i class="attach icon"></i> {{ site.data.contact.url }}
-          </div>
-        </div>
+
+        {% include contact.html footer=true %}
       </div>
       <div class="four wide column">
         <h4 class="ui inverted header prototype">Ipsum enim</h4>
