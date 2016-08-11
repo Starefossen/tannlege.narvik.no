@@ -9,7 +9,12 @@
 <div class="ui {{ type }} list">
   <div class="item">
     <i class="{{ color }} building outline icon"></i>
-   <div class="middle aligned content">{{ site.data.contact.address.short }}</div>
+    <div class="middle aligned content">
+      {{ site.data.contact.address.full }}
+      <br>
+      {{ site.data.contact.address.zip }}
+      {{ site.data.contact.address.area }}
+    </div>
   </div>
   <div class="item">
     <i class="{{ color }} call icon"></i>
