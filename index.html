@@ -19,25 +19,22 @@ layout: default
   </div>
 </div>
 
-<div class="ui vertical stripe segment">
+
+<!-- Treatments -->
+<div class="ui vertical stripe segment" id="behandlinger">
   <div class="ui text container">
-    <h3 class="ui header prototype">Suscipit qui iusto iusto</h3>
+    <h3 class="ui header">{{ site.title }}</h3>
 
-    <p class="prototype">Rem et ratione porro. Tenetur et neque corporis
-    molestias corporis. Et provident quasi voluptates nihil quo corrupti qui
-    ex. Mollitia aliquid libero ut non at praesentium a. Ad iusto sit facere
-    non et debitis dicta vero. Error culpa odio omnis.</p>
-
-    <a class="ui large button prototype">Ipsum enim</a>
+    <p>En moderne tannklinikk i hjerte av Narvik sentrum – tuftet på kvalitet,
+    trygghet og et høyt faglig nivå med pasienten er i sentrum.</p>
   </div>
 
   <div class="ui stackable container">
-    <h4 class="ui horizontal divider header prototype" id="behandlinger">
-      Corporis exercitationem esse impedit
+    <h4 class="ui horizontal divider header">
+      Behandlinger
     </h4>
   </div>
 
-  <!-- Treatments -->
   <div class="ui stackable three column centered grid container">
   {% for treatment in site.data.treatments %}
     {% assign base = "assets/medical/svg" %}
@@ -52,14 +49,34 @@ layout: default
     </div>
   {% endfor %}
   </div>
+</div>
+
+
+<!-- About -->
+<div class="ui vertical stripe segment" id="om-oss">
+  <div class="ui text container">
+    <h1>Om Oss</h1>
+
+    <p>Tannlegene i Sentrumsgården ble etablert i 1993 i hjertet av Narvik
+    sentrum, og har siden utviklet seg til en moderne tannklinikk - tuftet på
+    kvalitet, trygghet og et høyt faglig nivå med pasienten er i sentrum.</p>
+
+    <p>Klinikken har et solid fokus på faglig kunnskap, kombinert med trivelig
+    og behagelig tannbehandling. Kombinasjonen av erfarne og nyutdannede
+    tannleger gir en god balanse av erfaring og oppdatert faglig kunnskap.
+    Tannklinikken har samlet over 80 års erfaring.</p>
+
+    <p>Virksomheten har også sertifisert tanntekniker tilknyttet klinikken, som
+    gir arbeid av høy kvalitet og rask behandling når det trengs. Dette er et
+    unikt samarbeid som sikrer best mulig resultat for pasienten.</p>
+  </div>
 
   <div class="ui stackable container">
-    <h4 class="ui horizontal divider header prototype" id="tannleger">
-      Corporis exercitationem esse impedit
+    <h4 class="ui horizontal divider header" id="behandlinger">
+      Personale
     </h4>
   </div>
 
-  <!-- Dentists -->
   <div class="ui four stackable cards container">
   {% for dentist in site.data.dentists %}
     {% assign base = "assets/avatars/svg" %}
