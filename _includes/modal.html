@@ -74,7 +74,7 @@ $(document).ready(function() {
     var body = encodeURIComponent([
       'Navn: ' + name_first + ' ' + name_last,
       'Telefon: ' + phone,
-      'Ønsket behandler: ' + dentist,
+      'Ønsket behandler: ' + dentist || 'Ingen preferanse',
       message,
     ].join('\r\n\r\n'));
 
