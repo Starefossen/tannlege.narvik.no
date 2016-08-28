@@ -79,11 +79,9 @@ layout: default
 
   <div class="ui four stackable cards container">
   {% for dentist in site.data.dentists %}
-    {% assign base = "assets/avatars/svg" %}
-
     <div class="card">
       <div class="image">
-        <img src="{{ base }}/{{ dentist.image }}.svg">
+        <img src="/assets/dentists/{{ dentist.image }}-512.jpg">
       </div>
       <div class="content">
         <div class="header">{{ dentist.name }}</div>
