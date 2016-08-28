@@ -78,7 +78,7 @@ $(document).ready(function() {
       message,
     ].join('\r\n\r\n'));
 
-    window.open('mailto:' + email + '?subject=' + subject + '&body=' + body);
+    window.location.href = 'mailto:' + email + '?subject=' + subject + '&body=' + body;
   });
 });
 </script>
