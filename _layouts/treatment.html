@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="pusher">
+      <div class="ui container" style="margin-top: 15px;">
+        <div class="ui huge menu">
+          {% include menu.html right=true toc=true %}
+        </div>
+      </div>
+
+      <div class="ui stackable grid container" style="margin: 20px 0;">
+          <div class="four wide column">
+            <div class="ui fluid vertical pointing menu">
+              {% for treatment in site.treatments %}
+                {% if page.url == treatment.url %}
+                  {% assign active = "active" %}
+                {% else %}
+                  {% assign active = "" %}
+                {% endif %}
+
+                <a class="item {{ active }}" href="{{ treatment.url }}">
+                  {{ treatment.title }}
+                </a>
+              {% endfor %}
+            </div>
+          </div>
+
+          <div class="eight wide column treatment">
+            {% assign base = "/assets/medical/svg" %}
+
+            <h1 class="ui center aligned icon header">
+              <img src="{{ base }}/{{ page.image }}.svg" class="ui tiny image">
+
+              <div class="content">{{ page.title }}</div>
+            </h1>
+
+
+            {{ content }}
+          </div>
+      </div>
+
+      {% include footer.html %}
+    </div>
+
+    {% include scripts.html %}
+  </body>
+
+</html>

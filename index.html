@@ -36,16 +36,16 @@ layout: default
   </div>
 
   <div class="ui stackable three column centered grid container">
-  {% for treatment in site.data.treatments %}
+  {% for treatment in site.treatments %}
     {% assign base = "assets/medical/svg" %}
 
     <div class="column">
-      <h2 class="ui icon header">
+      <a href="{{ treatment.url }}" class="ui icon header" style="font-size: x-large;">
         <img src="{{ base }}/{{ treatment.image }}.svg" class="ui tiny image">
         <div class="content">{{ treatment.title }}</div>
-      </h2>
+      </a>
 
-      <p class="prototype">{{ treatment.desc }}.</p>
+      <p>{{ treatment.excerpt | remove: '<p>' | remove: '</p>' }}</p>
     </div>
   {% endfor %}
   </div>

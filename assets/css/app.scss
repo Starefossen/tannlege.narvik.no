@@ -22,6 +22,11 @@
   margin-left: 0.5em;
 }
 
+.ui.header {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 100;
+}
+
 .masthead h1.ui.header {
   margin-top: 3em;
   margin-bottom: 0em;
@@ -81,6 +86,17 @@
 
 .ui.huge.menu .toc.item {
   display: none;
+}
+
+.treatment {
+  p {
+    font-size: medium;
+    text-align: justify;
+  }
+
+  p:first-of-type {
+    font-size: large;
+  }
 }
 
 @media only screen and (max-width: 1024px) {
