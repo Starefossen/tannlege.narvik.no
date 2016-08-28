@@ -1,0 +1,84 @@
+<div class="ui small modal">
+  <i class="close icon"></i>
+
+  <div class="header">
+    Bestill Time
+  </div>
+
+  <div class="content">
+    <form class="ui form">
+      <div class="field">
+        <label>Navn</label>
+        <div class="two fields">
+          <div class="field">
+            <input type="text" name="name_first" placeholder="Fornavn">
+          </div>
+          <div class="field">
+            <input type="text" name="name_last" placeholder="Etternavn">
+          </div>
+        </div>
+      </div>
+
+      <div class="field">
+        <label>Telefon</label>
+        <input type="text" name="phone" placeholder="Telefon">
+      </div>
+
+      <div class="field">
+        <label>Melding</label>
+        <textarea name="message" rows="2"></textarea>
+      </div>
+
+      <div class="field">
+        <label>Ønsket behandler</label>
+        <select name="dentist" class="ui fluid dropdown">
+          <option value="">Behandler</option>
+          {% for dentist in site.data.dentists %}
+            {% if dentist.title == "Tannlege" %}
+              <option>{{ dentist.name }}</option>
+            {% endif %}
+          {% endfor %}
+        </select>
+      </div>
+    </form>
+  </div>
+
+  <div class="actions">
+    <div class="ui black deny button">Avbryt</div>
+    <div class="ui positive right labeled icon button">
+      Send <i class="checkmark icon"></i>
+    </div>
+  </div>
+</div>
+
+<script>
+$(document).ready(function() {
+  $('.order.button').on('click', function() {
+    $('.ui.modal').modal('show');
+
+    $('.ui.modal .ui.form').form('reset');
+    $('.ui.modal .ui.form select.dropdown').dropdown();
+  });
+
+  $('.ui.modal .positive.button').on('click', function(e) {
+    var name_first = $('.ui.modal .ui.form input[name="name_first"]').val();
+    var name_last = $('.ui.modal .ui.form input[name="name_last"]').val();
+    var phone = $('.ui.modal .ui.form input[name="phone"]').val();
+    var message = $('.ui.modal .ui.form textarea[name="message"]').val();
+    var dentist = $('.ui.modal .ui.form select[name="dentist"]').val();
+
+    var email = '{{ site.data.contact.email }}';
+    var subject = encodeURIComponent(
+      'Timebestilling for ' + name_first + ' ' + name_last
+    );
+    var body = encodeURIComponent([
+      'Navn: ' + name_first + ' ' + name_last,
+      'Telefon: ' + phone,
+      'Ønsket behandler: ' + dentist,
+      message,
+    ].join('\r\n\r\n'));
+
+    window.open('mailto:' + email + '?subject=' + subject + '&body=' + body);
+  });
+});
+</script>
