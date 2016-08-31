@@ -3,16 +3,12 @@ title: Tannlegene i Sentrumsgården
 byline: Med pasienten i sentrum
 
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Tannlegene i Sentrumsgården er en moderne tannklinikk i hjerte av Narvik sentrum – tuftet på
+  kvalitet, trygghet og et høyt faglig nivå med pasienten er i sentrum.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://tannlege.narvik.no" # the base hostname & protocol for your site
 
 excerpt_separator: <!--more-->
-
-twitter_username: jekyllrb
-github_username:  jekyll
 
 ga_tracking_id: UA-83328230-1
 
