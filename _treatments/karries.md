@@ -4,7 +4,7 @@ title: Karries
 image: caries
 ---
 
-Vi hjelper til med en smerteløs behandling av alle typer kariesangrep...
+Vi utfører en behagelig undersøkelse og behandling av alle typer kariesangrep...
 
 <!--more-->
 
