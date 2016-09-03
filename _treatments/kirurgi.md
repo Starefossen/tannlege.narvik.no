@@ -4,8 +4,7 @@ title: Kirurgi
 image: molar-8
 ---
 
-Vi utfører flere typer kirurgiske inngrep bla. tanntrekking, implantater, og
-vevsprøver.
+Vi utfører flere typer kirurgiske inngrep som avasert tanntrekking, implantater...
 
 <!--more-->
 
