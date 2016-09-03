@@ -4,11 +4,13 @@ title: Krone og bro
 image: molar-crown
 ---
 
+Vi tilbyr hjelp til alle typer protetiske behandlinger...
+
+<!--more-->
+
 Det er situasjoner hvor en plastfylling ikke klarer å tilfredsstille krav om
 holdbarhet og estetikk. Protetisk behandling med krone eller bro vil da være det
 beste alternativet.
-
-<!--more-->
 
 En krone er en erstatning som dekker hele den defekte tannen. En bro erstatter
 en eller flere manglende tenner og festes oftest i ankerpunkt på eksisterende
