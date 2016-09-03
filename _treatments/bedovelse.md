@@ -4,7 +4,9 @@ title: Bedøvelse
 image: anesthesia
 ---
 
-Vi bruker moderne bedøvelsesmidler som gir effektiv og god smertelindring...
+Trykk for å lese mer
+
+Vi bruker moderne bedøvelsesmidler som gir effektiv og god smertelindring.
 
 <!--more-->
 
