@@ -4,10 +4,12 @@ title: Bittskinne
 image: braces
 ---
 
-En bittskinne er en spesialtilpasset, avtakbar tannplate i plast som sitter på
-tennene i under- eller overkjeven.
+Vi lager spesialtilpassede bittskinner mot smerter i kjeven eller slitasje av tenner... 
 
 <!--more-->
+
+En bittskinne er en spesialtilpasset, avtakbar tannplate i plast som sitter på
+tennene i under- eller overkjeven.
 
 Bittskinner brukes oftest om natten for å unngå tanngnissing og unødvendig hard
 sammenbitning. Dette er en vanlig tilstand som kan gi ømme tyggemuskler,
