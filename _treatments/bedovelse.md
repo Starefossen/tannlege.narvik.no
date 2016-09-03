@@ -1,14 +1,13 @@
+Trykk for å lese mer
 ---
 layout: treatment
 title: Bedøvelse
 image: anesthesia
 ---
 
-Trykk for å lese mer
+Vi bruker moderne bedøvelsesmidler som gir effektiv og god smertelindring.
 
 <!--more-->
-
-Vi bruker moderne bedøvelsesmidler som gir effektiv og god smertelindring.
 
 Bedøvelse (anestesi) gir en følelsesløshet i ønsket del av kroppen, f.eks en
 tann, så man ikke opplever smerte ved et ellers ubehagelige inngrep. Ved å sette
