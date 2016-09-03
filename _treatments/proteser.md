@@ -4,10 +4,12 @@ title: Proteser
 image: implants-3
 ---
 
-Helproteser lager vi i de tilfellene alle tennene er borte. Delproteser lager vi
-dersom du har få tenner igjen.
+Vi hjelper til med alle typer proteser (gebiss)...
 
 <!--more-->
+
+Helproteser lager vi i de tilfellene alle tennene er borte. Delproteser lager vi
+dersom du har få tenner igjen.
 
 Dersom man mangler flere eller alle tennene kan man erstatte disse med en
 protese (tanngebiss). Protesen sitter ikke fast og må tas av for rengjøring. Vi
