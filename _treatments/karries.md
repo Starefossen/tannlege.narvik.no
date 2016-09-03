@@ -4,11 +4,13 @@ title: Karries
 image: caries
 ---
 
+Vi hjelper til med en smerteløs behandling av alle typer kariesangrep...
+
+<!--more-->
+
 Karies (hull i tennene) er en av verdens vanligste sykdommer, og skyldes en
 unormalt stor kolonisering av bakterier på tannoverflaten som normalt lever
 munnen.
-
-<!--more-->
 
 Bakteriene lever av ulike sukkertyper, og lager syrer som oppløser
 tannoverflaten. Avhengig av skadene kan dette behandles på ulike måter. En
