@@ -4,7 +4,7 @@ title: Tannkjøttsykdom
 image: gum-1
 ---
 
-Vi undersøker og hjelper ved alle typer tannkjøttsykdommer...
+Vi undersøker, instruerer og hjelper ved alle typer tannkjøttsykdommer...
 
 <!--more-->
 
