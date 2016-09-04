@@ -4,11 +4,13 @@ title: Tannkjøttsykdom
 image: gum-1
 ---
 
+Vi undersøker og hjelper mot alle typer tannkjøttsykdommer...
+
+<!--more-->
+
 Tannkjøttsykdom er en vanlig tilstand, skyldes oftest dårlig tannhygiene og gir
 lite plager i begynnelsen. Tannkjøttsykdom kan også skyldes genetikk eller et
 dårlig tilpasset immunforsvar i munnen.
-
-<!--more-->
 
 Tilstanden kan inndeles to grupper; gingivitt og peridontitt. Gingivitt er en
 mildere form for tannkjøttsykdom som kan gå tilbake med god tannhygiene.
