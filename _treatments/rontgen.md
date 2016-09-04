@@ -4,10 +4,12 @@ title: Røntgen
 image: x-ray-2
 ---
 
-Et av de viktigste redskapene våre er røntgenbilder. Med disse kan man finne
-skader på tenner, bein eller vev som kan være vanskelig å oppdage ellers
+Vi har flere ulike typer røntgen tilgjengelig for best mulig behandling...
 
 <!--more-->
+
+Et av de viktigste redskapene våre er røntgenbilder. Med disse kan man finne
+skader på tenner, bein eller vev som kan være vanskelig å oppdage ellers
 
 Røntgenbilder tas ved å sende røntgenstråler gjennom et ønsket området, f.eks
 munnen, for deretter å kunne se hva som er på innsiden, som tenner og
