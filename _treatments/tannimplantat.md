@@ -4,11 +4,13 @@ title: Tannimplantat
 image: implants-1
 ---
 
+Vi har en av Nord-Norges mest erfarne på implantater med 25 års erfaring...
+
+<!--more-->
+
 Det er mulig å erstatte nesten alle tapte tenner med tannimplantat, som
 innebærer at man opererer ned en liten titanskrue i kjevebenet for å erstatte
 manglende tannrot.
-
-<!--more-->
 
 På denne skruen kan det festes en ny tann eller tannrekke (krone eller bro).
 Titanskruer er det man kaller biokompatible (aksepteres av kroppens vev og
