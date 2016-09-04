@@ -3,8 +3,8 @@ title: Tannlegene i Sentrumsgården
 byline: Med pasienten i sentrum
 
 description: > # this means to ignore newlines until "baseurl:"
-  Tannlegene i Sentrumsgården er en moderne tannklinikk i hjerte av Narvik sentrum – tuftet på
-  kvalitet, trygghet og et høyt faglig nivå med pasienten er i sentrum.
+  Tannlegene i Sentrumsgården er en moderne tannklinikk i hjertet av Narvik sentrum – tuftet på
+  kvalitet, trygghet og et høyt faglig nivå med pasienten i sentrum.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tannlege.narvik.no" # the base hostname & protocol for your site
 
