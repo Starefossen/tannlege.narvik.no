@@ -1,6 +1,6 @@
 ---
 layout: treatment
-title: Karries
+title: Karies
 image: caries
 ---
 
