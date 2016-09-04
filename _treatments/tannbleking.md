@@ -4,10 +4,12 @@ title: Tannbleking
 image: canine-2
 ---
 
-Tannbleking innebærer en dypere rengjøring av tennene, hvor man kjemisk renser
-det ytterste laget på tennene med et blekemiddel.
+Vi tilbyr ulike behandlinger for å bedre misfargede og mørke tenner...
 
 <!--more-->
+
+Tannbleking innebærer en dypere rengjøring av tennene, hvor man kjemisk renser
+det ytterste laget på tennene med et blekemiddel.
 
 Å bleke tennene er i dag relativt vanlig, men i Norge er det kun
 tannhelsepersonell har lov til å distribuere blekemidler med ønskelig effekt.
