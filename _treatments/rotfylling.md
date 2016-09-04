@@ -4,11 +4,13 @@ title: Rotfylling
 image: teeth-10
 ---
 
+Vi tilbyr hjelp ved alle typer tannsmerter, tannpine og ubehag i tannen...
+
+<!--more-->
+
 Alle naturlige tenner har nerver på innsiden. Om disse blir skadet eller dør vil
 man kunne oppleve akutt tannpine, smerter og ubehag ved f.eks varme- eller kalde
 måltider, eller ubehag ved tygging.
-
-<!--more-->
 
 Dersom man ikke oppsøker tannlege kan plagene progrediere til smertelig
 tannverk. Klinisk undersøkelse hos tannlege og røntgenbilder vil avgjøre om
