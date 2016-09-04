@@ -4,10 +4,12 @@ title: Tannlegeskrekk
 image: cardiogram
 ---
 
-Tannlegeskrekk (odotofobi) er en vanlig tilstand, både hos barn og voksne, og
-kjennetegnes ved søvnproblemer og engstelse i forkant av tannlegebesøk.
+Vi ønsker å være en trygg og behagelig klinikk for alle...
 
 <!--more-->
+
+Tannlegeskrekk (odotofobi) er en vanlig tilstand, både hos barn og voksne, og
+kjennetegnes ved søvnproblemer og engstelse i forkant av tannlegebesøk.
 
 Tilstanden kan spenne seg fra lett engstelse til alvorlig fobi, og fører
 dessverre til at mange unngår å gå til tannlegen, selv ved store tannplager. Vi
